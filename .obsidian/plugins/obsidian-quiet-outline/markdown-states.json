@@ -2874,11 +2874,11 @@
     "cursor": {
       "from": {
         "line": 4,
-        "ch": 12
+        "ch": 39
       },
       "to": {
         "line": 4,
-        "ch": 12
+        "ch": 39
       }
     },
     "expandedKeys": []

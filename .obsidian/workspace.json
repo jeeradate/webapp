@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Setup.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Setup"
+              "title": "README"
             }
           }
         ]
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Setup.md",
+                "file": "README.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "byModifiedTime",
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Setup.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -227,10 +227,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "aa51a708f4c1b13a",
+  "active": "c10d90b7292c995c",
   "lastOpenFiles": [
-    "readme.md",
     "Setup.md",
+    "README.md",
     "AI/Python/NiceGUI/NiceGUI Note.md",
     "AI/Python/NiceGUI/Multipage via NiceGUI.md",
     "To do to buy/Todo.md",
