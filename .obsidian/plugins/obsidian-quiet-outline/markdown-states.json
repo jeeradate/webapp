@@ -2868,5 +2868,33 @@
       }
     },
     "expandedKeys": []
+  },
+  "readme.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 4,
+        "ch": 12
+      },
+      "to": {
+        "line": 4,
+        "ch": 12
+      }
+    },
+    "expandedKeys": []
+  },
+  "Setup.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 5
+      },
+      "to": {
+        "line": 0,
+        "ch": 5
+      }
+    },
+    "expandedKeys": []
   }
 }

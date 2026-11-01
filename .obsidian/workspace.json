@@ -11,10 +11,14 @@
             "id": "aa51a708f4c1b13a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Setup.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Setup"
             }
           }
         ]
@@ -114,6 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Setup.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "byModifiedTime",
@@ -193,6 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Setup.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -224,6 +230,7 @@
   "active": "aa51a708f4c1b13a",
   "lastOpenFiles": [
     "readme.md",
+    "Setup.md",
     "AI/Python/NiceGUI/NiceGUI Note.md",
     "AI/Python/NiceGUI/Multipage via NiceGUI.md",
     "To do to buy/Todo.md",
@@ -249,7 +256,6 @@
     "Python for Algo Trading.md",
     "To do to buy/โครงการขายของเก่า.md",
     "PWA/URL Routing.md",
-    "To do to buy/Mega Storage free 20GB.md",
     "Untitled 1",
     "FoodOrderDatabaseDesign.canvas",
     "แนวทางในการเรียน Python",
